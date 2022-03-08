@@ -1,7 +1,14 @@
 
 body {
+    background: linear-gradient(45deg, #834203, transparent);
     margin: 0;
     font-family: 'Macondo-Swash-Caps';
+}
+
+.conteudo{
+    background: #fff;
+    margin: 5%;
+    border-radius: 20px;
 }
 
 .topo{
@@ -21,8 +28,9 @@ body {
 }
 
 h1 { 
-    color: #ebc095;
+    color: #99591b;
     font-size: 35px;
+    width: 50%;
 }
 
 span {color: #663505;
@@ -32,6 +40,7 @@ span {color: #663505;
     position: relative;
     left: 45%;
     top: -30px;
+    width: 50%;
 
 }
 
@@ -39,8 +48,9 @@ span {color: #663505;
     position: relative;
     left: 50%;
     top: -50px;
-    color: #ebc095;
-    font-size: 15px;
+    color: #99591b;
+    font-size: 20px;
+    width: 50%;
 
 }
 
