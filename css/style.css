@@ -69,10 +69,17 @@ h3 {
   font-family: "Marck-Script";
   margin: 20px;
   line-height: 30px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .contato {
   font-family: "Marck-Script";
-  font-size: 18px;
+  font-size: 16px;
+}
+
+.linha-vertical {
+  float: left;
+  height: 490px;
+  border-right: 1px solid rgb(27, 27, 27);
+  top: -20px;
 }
