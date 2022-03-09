@@ -1,75 +1,76 @@
-
 body {
-    background: linear-gradient(45deg, #834203, transparent);
-    margin: 0;
-    font-family: 'Macondo-Swash-Caps';
+  background: linear-gradient(45deg, #834203, transparent);
+  margin: 0;
+  font-family: "Macondo-Swash-Caps";
 }
 
-.conteudo{
-    background: #fff;
-    margin: 5%;
-    border-radius: 20px;
+.conteudo {
+  border-radius: 20px;
+  background: linear-gradient(145deg, #ffffff, #e6e6e6);
+  box-shadow: 5px 5px 10px #666666, -5px -5px 10px #ffffff;
+  background: #ffffff;
+  margin: 5%;
+  border-radius: 20px;
 }
 
-.topo{
-    width : 100%;
-    height: 430px;
+.topo {
+  width: 100%;
+  height: 430px;
 }
-.avatar{
-    border: 5px solid #fff;
-    background-color: #fff;
-    border-radius: 50%;
-    margin-top: -150px;
-    margin-left: 43%;
-    }
+.avatar {
+  border: 5px solid #fff;
+  background-color: #fff;
+  border-radius: 50%;
+  margin-top: -150px;
+  margin-left: 43%;
+}
 
 .link {
-    padding-left: 20px;
+  padding-left: 20px;
 }
 
-h1 { 
-    color: #99591b;
-    font-size: 35px;
-    width: 50%;
+h1 {
+  color: #99591b;
+  font-size: 35px;
+  width: 50%;
 }
 
-span {color: #663505;
+span {
+  color: #663505;
 }
 
-.nome{
-    position: relative;
-    left: 45%;
-    top: -30px;
-    width: 50%;
-
+.nome {
+  position: relative;
+  left: 45%;
+  top: -30px;
+  width: 50%;
 }
 
-.subtitulo{
-    position: relative;
-    left: 50%;
-    top: -50px;
-    color: #99591b;
-    font-size: 20px;
-    width: 50%;
-
+.subtitulo {
+  position: relative;
+  left: 50%;
+  top: -50px;
+  color: #99591b;
+  font-size: 20px;
+  width: 50%;
 }
 
-h2, h3 {
-    font-family: 'Marck-Script';
-    color: #834203;
-    font-size: 30px;
-    margin: 18px;
+h2,
+h3 {
+  font-family: "Marck-Script";
+  color: #834203;
+  font-size: 30px;
+  margin: 18px;
 }
-
 
 .texto {
-    font-family: 'Marck-Script';
-    margin: 20px;
-    line-height: 30px;
-    font-size: 18px;
+  font-family: "Marck-Script";
+  margin: 20px;
+  line-height: 30px;
+  font-size: 18px;
 }
 
-.contato{
-    font-family: 'Marck-Script';
-    font-size: 18px;
+.contato {
+  font-family: "Marck-Script";
+  font-size: 18px;
 }
