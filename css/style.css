@@ -11,6 +11,8 @@ body {
   background: #ffffff;
   margin: 5%;
   border-radius: 20px;
+  width: 20%;
+  float: left;
 }
 
 .topo {
